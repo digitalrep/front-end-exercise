@@ -1,4 +1,4 @@
-# front-end-test
+# front-end-exercise
 
 > The purpose of this is to see how front end devs might tackle this task. There is no right or wrong way to structure it. Do your best and have fun.  
 This is an empty Vue JS setup
