@@ -26,4 +26,4 @@ This is an empty Vue JS setup
     
     Logos are in `src/assets` and users are in `src/data`
 
-If this is too easy then see if you can use vue components, import the data or even create a mobile response version.
+If this is too easy then see if you can use vue components, import the data or even create a mobile responsive version.
